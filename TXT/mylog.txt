@@ -4,6 +4,7 @@
 ZCZC W00 100 L02 Listening to the lecture
 ZCZC W00 05 L03 Connect Local Repository with Github Repository
 ZCZC W00 10 L04 GSGS about Github Pages
+ZCZC W00 25 L05 Preparing and doing Quiz
 ZCZC W00 120 L06 Watching references of week 0 from a senior's links page
 ZCZC W00 05 L11 Assignment #01: GitHub Account
 ZCZC W00 10 L12 Assignment #02: “TXT/mylog.txt”
