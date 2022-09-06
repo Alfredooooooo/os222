@@ -12,3 +12,8 @@ ZCZC W00 15 L13 Assignment #03: Create Your GitHub Page
 ZCZC W00 05 L14 Assignment #04: Course Registration
 ZCZC W00 20 L15 Assignment #05: Reading Assignment
 ZCZC W00 30 L16 Assignment #06: Revisit “TXT/mylog.txt”
+ZCZC W01 100 L02 Listening to the lecture (Tuesday)
+ZCZC W01 90 L11 Working on Assignment #01: Setup a VirtualBox Debian Guest
+ZCZC W01 10 L41 Modifying W00 and W01 report
+ZCZC W01 30 L61 Install Virtual Box
+ZCZC W01 30 L62 Install Virtual Box Debian Guest
