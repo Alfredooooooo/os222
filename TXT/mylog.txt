@@ -13,7 +13,7 @@ ZCZC W00 05 L14 Assignment #04: Course Registration
 ZCZC W00 20 L15 Assignment #05: Reading Assignment
 ZCZC W00 30 L16 Assignment #06: Revisit “TXT/mylog.txt”
 ZCZC W01 100 L02 Listening to the lecture (Tuesday)
-ZCZC W01 90 L11 Working on Assignment #01: Setup a VirtualBox Debian Guest
+ZCZC W01 210 L11 Working on Assignment #01: Setup a VirtualBox Debian Guest
 ZCZC W01 30 L27 Generate public rsa key pair (using Putty) as well as putting the key at GitHub.com and trying WinSCP
 ZCZC W01 10 L41 Modifying W00 and W01 report
 ZCZC W01 30 L61 Install Virtual Box
