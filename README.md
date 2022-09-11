@@ -2,6 +2,7 @@
 Operating Systems 2022-2 (Odd Semester 22/23).
 
 [GitHub Page](https://alfredooooooo.github.io/os222/) ---
+[LINKS](LINKS) ---
 [myLOG](TXT/mylog.txt) ---
 [GitHub](https://github.com/Alfredooooooo/os222)
 <br><br>
