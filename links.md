@@ -5,8 +5,8 @@ permalink: LINKS/
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[GITHUB]({{ site.githublink }})
+[LOG]({{ site.baseurl }}/TXT/mylog.txt) ---
+[GITHUB]({{ https://github.com/Alfredooooooo/os222 }})
 <br>
 <hr>
 
@@ -46,7 +46,4 @@ This tutorial takes you through AWK, one of the most prominent text-processing u
 
 
 <br>
-<hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
-<hr>
-<br>
+
