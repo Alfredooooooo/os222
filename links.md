@@ -49,22 +49,22 @@ This tutorial takes you through AWK, one of the most prominent text-processing u
 
 ### Week 2
 
-11. [Cyber Security in 7 Minutes!] (https://www.youtube.com/watch?v=inWWhr5tnEA)
+11. [Cyber Security in 7 Minutes!](https://www.youtube.com/watch?v=inWWhr5tnEA)<br>
 This video provides a brief introduction about cyber security. It also explains some of attack techniques (such as malware, phishing, DDoS, and SQL injection) are explained here. If you like video with visual elements (such as cartoon), this video is perfect for you.
 
-12. [Cyber Security: CCSS] (https://www.youtube.com/watch?v=bPVaOlJ6ln0)
+12. [Cyber Security: CCSS](https://www.youtube.com/watch?v=bPVaOlJ6ln0)<br>
 This video explains longer introduction to cyber security. This video contains visual animations with small lectures to deliver the lesson. It is recommended if you like brief video but useful!
 
-13. [Symmetric vs Asymmetric Encryption] (https://www.trentonsystems.com/blog/symmetric-vs-asymmetric-encryption)
+13. [Symmetric vs Asymmetric Encryption](https://www.trentonsystems.com/blog/symmetric-vs-asymmetric-encryption)<br>
 This article explains the differences between symmetric encryption, a single-key encryption technique, and asymmetric encryption, also known as public-key cryptography, which uses private and public-key pairs of encryption keys. It is recommended if you are curious about the difference about these two.
 
-14. [C Programming Fundamental] (https://www.w3schools.com/c/)
+14. [C Programming Fundamental](https://www.w3schools.com/c/)<br>
 This article is a great source of learning if you're curious about C whether about it's syntax, it's power, it's function, and it's structure. I greatly recommend this article to know a glimpse of what C really looks like
 
-15. [Belajar Pemrograman C untuk Pemula] (https://www.petanikode.com/tutorial/c/)
+15. [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/)<br>
 This is another article I recommend to learn C if you prefer native language over english. I recommend this if you like somewhat calm UI and great learning experience
 
-16. [Modify file permission with chmod] (https://www.linode.com/docs/guides/modify-file-permissions-with-chmod/)
+16. [Modify file permission with chmod](https://www.linode.com/docs/guides/modify-file-permissions-with-chmod/)<br>
 I recommend this article to read for those who are interested in changing file permission in linux with chmod. It explains basic linux file permisson, how to restore it, and doing some stuff!! I really recommend this article
 
 <br>
