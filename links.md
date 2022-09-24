@@ -69,3 +69,16 @@ I recommend this article to read for those who are interested in changing file p
 
 <br>
 
+### Week 3
+
+17. [Files & File Systems: CCCS](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
+This video teaches us briefly about Files and File System. I understand the early part on this video but when it goes a bit more advanced I seems a little bit lost, but still I think you can watch this video if you like technical and comprehensive explanation as well as short video.
+
+18. [AWK vs GREP vs SED](https://techviewleo.com/awk-vs-grep-vs-sed-commands-in-linux/)<br>
+Although these three things have been discussed in Week 1 with Mr. Rahmat. But after doing the quiz, I'm interested in reviewing these three things all over again. I really recommend this link if you having a hard time with the previous scripting quiz.
+
+19. [Linux Directories in 180 seconds YT](https://www.youtube.com/watch?v=42iQKuQodW4)<br>
+This video explains about Filesystem Hierarchy briefly. Even though this video is around 180 seconds, it is still explaining most of all about FHS. If you are lazy to read and have no spare time to spend, this express video is a good introduction for you.
+
+20. [Linux Hierarchy File Structure GFG](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
+It's basically the same as the previous links, but this is an article. If you love to read and lazy to watch video, this might be a suitable things for you to read if you wish to understand about UNIX File Hierarchy.

@@ -33,3 +33,9 @@ ZCZC W02 15 L26 Generating new GnuPG
 ZCZC W02 10 L27 Generating public/private rsa key pair for SSH related
 ZCZC W02 10 L44 Re running myscript.sh which impact the SHA256SUM abd so on
 ZCZC W02 120 L64 Helping friend with second week assignment
+ZCZC W03 200 L02 Listening to the lecture (Tuesday and Thursday)
+ZCZC W03 90 L05 Preparing for quiz
+ZCZC W03 240 L11 Working on Assignment #01: Readings, Watchings, and Demos
+ZCZC W03 40 L12 Working on Assignment #02: Add/Create An Extra Virtual Disk
+ZCZC W03 80 L13 Working on Assignment #03: Finishing (updating myrank.txt, updating links.md, updating myupdate.txt, running Script)
+ZCZC W03 120 L64 Assisting friend with third week assignment
