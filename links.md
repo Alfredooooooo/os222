@@ -67,8 +67,6 @@ This is another article I recommend to learn C if you prefer native language ove
 16. [Modify file permission with chmod](https://www.linode.com/docs/guides/modify-file-permissions-with-chmod/)<br>
 I recommend this article to read for those who are interested in changing file permission in linux with chmod. It explains basic linux file permisson, how to restore it, and doing some stuff!! I really recommend this article
 
-<br>
-
 ### Week 3
 
 17. [Files & File Systems: CCCS](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
