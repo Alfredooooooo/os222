@@ -80,3 +80,10 @@ This video explains about Filesystem Hierarchy briefly. Even though this video i
 
 20. [Linux Hierarchy File Structure GFG](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
 It's basically the same as the previous links, but this is an article. If you love to read and lazy to watch video, this might be a suitable things for you to read if you wish to understand about UNIX File Hierarchy.
+
+### Week 4
+21. [Pointer in C](https://personal.utdallas.edu/~rkm010300/utd/cs3376/ppt/ch09.pdf)<br>
+Although this slide is presented in C++, I think if you want to learn more about pointer this is the correct link for you. C++ has pretty much the same concept even though it's syntax is not the same. But again, it's going to be a ride to use this link in order to learn about pointer.
+
+22. [Memory Mapping in UNIX](https://frameboxxindore.com/linux/what-is-memory-mapping-in-linux.html)<br>
+Another article to read if you wish to understand about how to allocate memory. I personally don't really understand before reading this article, and I think it helps me a bit of understanding how it really works.

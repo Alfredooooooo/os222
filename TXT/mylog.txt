@@ -39,3 +39,8 @@ ZCZC W03 240 L11 Working on Assignment #01: Readings, Watchings, and Demos
 ZCZC W03 40 L12 Working on Assignment #02: Add/Create An Extra Virtual Disk
 ZCZC W03 80 L13 Working on Assignment #03: Finishing (updating myrank.txt, updating links.md, updating myupdate.txt, running Script)
 ZCZC W03 120 L64 Assisting friend with third week assignment
+ZCZC W04 100 L02 Listening to the Lecture (Tuesday)
+ZCZC W04 145 L05 Studying OS
+ZCZC W04 240 L11 Working on Assignment #01: Readings, Watchings, and Demos
+ZCZC W04 120 L12 Working on Assignment #02: Compiling The Linux Programming Interface (TLPI)
+ZCZC W04 75 L13 Working on Assignment #03: Finishing (updating links.md, myrank.txt, myupdate.txt, mylog.txt, and running script)
