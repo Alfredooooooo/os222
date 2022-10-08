@@ -44,3 +44,9 @@ ZCZC W04 145 L05 Studying OS
 ZCZC W04 240 L11 Working on Assignment #01: Readings, Watchings, and Demos
 ZCZC W04 120 L12 Working on Assignment #02: Compiling The Linux Programming Interface (TLPI)
 ZCZC W04 75 L13 Working on Assignment #03: Finishing (updating links.md, myrank.txt, myupdate.txt, mylog.txt, and running script)
+ZCZC W04 200 L02 Listening to the lecture (Tuesday) 
+ZCZC W04 240 L11 Assignment #01: Readings and Demos
+ZCZC W04 60 L12 Assignment #02: How Low (Memory) Can You Go?
+ZCZC W04 30 L13 Assignment #03: Script Download (User Mode)
+ZCZC W04 120 L14 Assignment #04: Memory
+ZCZC W04 120 L15 Assignment #05: Finishing
