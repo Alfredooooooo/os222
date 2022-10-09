@@ -59,13 +59,13 @@ This video explains longer introduction to cyber security. This video contains v
 This article explains the differences between symmetric encryption, a single-key encryption technique, and asymmetric encryption, also known as public-key cryptography, which uses private and public-key pairs of encryption keys. It is recommended if you are curious about the difference about these two.
 
 14. [C Programming Fundamental](https://www.w3schools.com/c/)<br>
-This article is a great source of learning if you're curious about C whether about it's syntax, it's power, it's function, and it's structure. I greatly recommend this article to know a glimpse of what C really looks like
+This article is a great source of learning if you're curious about C whether about it's syntax, it's power, it's function, and it's structure. I greatly recommend this article to know a glimpse of what C really looks like.
 
 15. [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/)<br>
-This is another article I recommend to learn C if you prefer native language over english. I recommend this if you like somewhat calm UI and great learning experience
+This is another article I recommend to learn C if you prefer native language over english. I recommend this if you like somewhat calm UI and great learning experience.
 
 16. [Modify file permission with chmod](https://www.linode.com/docs/guides/modify-file-permissions-with-chmod/)<br>
-I recommend this article to read for those who are interested in changing file permission in linux with chmod. It explains basic linux file permisson, how to restore it, and doing some stuff!! I really recommend this article
+I recommend this article to read for those who are interested in changing file permission in linux with chmod. It explains basic linux file permisson, how to restore it, and doing some stuff!! I really recommend this article.
 
 ### Week 3
 
@@ -82,8 +82,20 @@ This video explains about Filesystem Hierarchy briefly. Even though this video i
 It's basically the same as the previous links, but this is an article. If you love to read and lazy to watch video, this might be a suitable things for you to read if you wish to understand about UNIX File Hierarchy.
 
 ### Week 4
+
 21. [Pointer in C](https://personal.utdallas.edu/~rkm010300/utd/cs3376/ppt/ch09.pdf)<br>
 Although this slide is presented in C++, I think if you want to learn more about pointer this is the correct link for you. C++ has pretty much the same concept even though it's syntax is not the same. But again, it's going to be a ride to use this link in order to learn about pointer.
 
 22. [Memory Mapping in UNIX](https://frameboxxindore.com/linux/what-is-memory-mapping-in-linux.html)<br>
 Another article to read if you wish to understand about how to allocate memory. I personally don't really understand before reading this article, and I think it helps me a bit of understanding how it really works.
+
+### Week 5
+
+23. [How does Virtual Memory work?](https://www.youtube.com/watch?v=59MxYkCs1rg)<br>
+This video describes the concept of virtual memory in the context of operating system. It also provide explanation to visualize the concept of how virtual memory works in operating system.
+
+24. [Memory Allocation Algorithm](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)<br>
+This page explains about memory allocation algorithm. I think the page is well-planned because the subject is pretty comprehensive and they could bring this topic in an easy-to-understand way.
+
+25. [Linux Memory Management](https://www.thegeekstuff.com/2012/02/linux-memory-management/)<br>
+This link provide information about virtual memory as well as demand paging. I really recommend this link if you want to know more about it.
