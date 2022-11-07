@@ -11,3 +11,6 @@ ZCZC W04 dapulmh
 ZCZC W05 divanyh
 ZCZC W05 diafias
 ZCZC W05 dhafinn
+ZCZC W06 emilicos
+ZCZC W06 emilyrumia
+ZCZC W06 fanfavian

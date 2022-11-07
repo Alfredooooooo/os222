@@ -99,3 +99,15 @@ This page explains about memory allocation algorithm. I think the page is well-p
 
 25. [Linux Memory Management](https://www.thegeekstuff.com/2012/02/linux-memory-management/)<br>
 This link provide information about virtual memory as well as demand paging. I really recommend this link if you want to know more about it.
+
+### Week 6
+
+26. [Processes and Threads](https://www.youtube.com/watch?v=Wv7mzX8w3jI)<br>
+This video explains about the differences between processes and threads, and concurrency vs parallelism.
+
+27. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
+This website is good for you that want to learn more about threads and concurrency. It has good visualization and it explains nice.
+
+
+
+
