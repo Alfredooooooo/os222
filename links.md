@@ -108,6 +108,11 @@ This video explains about the differences between processes and threads, and con
 27. [Threads and Concurrency](https://applied-programming.github.io/Operating-Systems-Notes/3-Threads-and-Concurrency/)<br>
 This website is good for you that want to learn more about threads and concurrency. It has good visualization and it explains nice.
 
+### Week 7
+28. [Sychronization and Deadlock](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
+This short note explains about process synchronization and deadlock briefly. I greatly recommend this short note to whoever are wondering what Synchronization and Deadlocks really is.
 
+29. [Synchronization and Deadlock 2](https://humphryscomputing.com/Notes/OS/synch.html)<br>
+This website has C codes to give practical examples of them, I recommend this website if you want to know the code.
 
 
