@@ -115,4 +115,12 @@ This short note explains about process synchronization and deadlock briefly. I g
 29. [Synchronization and Deadlock 2](https://humphryscomputing.com/Notes/OS/synch.html)<br>
 This website has C codes to give practical examples of them, I recommend this website if you want to know the code.
 
+### Week 8
+29. [Linux From Scratch Version 11.2](https://www.linuxfromscratch.org/lfs/view/11.2/index.html)<br>
+This is the official guidance to make the latest version of LFS (current latest release is 1st September 2022, when this links resource is written).
 
+30.  [Linux From Scratch Tutorial](https://www.youtube.com/watchv=0EwMnskxIZM&list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ&index=1)<br>
+This is the channel I used and was recommended by Mr Rahmat to use as reference while building LFS. His explanations are detailed and easy to understand
+
+31. [Linux From Scratch](https://id.wikipedia.org/wiki/Linux_From_Scratch)<br>
+This article is written in Indonesia, so it's a good read for you to understand LFS. I greatly recommend this website to be read out to get the grasp of what LFS really is.
